@@ -1,5 +1,22 @@
 # RPS Challenge: Rōnin Badge Test
 
+==Contributors
+
+==Introduction
+
+==Technologies
+
+==Installation
+
+==Testing
+
+==Features
+
+
+Licence
+=======
+
+
 Instructions
 -------
 
