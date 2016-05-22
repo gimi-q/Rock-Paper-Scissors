@@ -6,7 +6,7 @@ A web application that allows two people to play the childhood classic Rock, Pap
 
 #Installation
 
-Clone this repo $ git clone git@github.com:Wynndow/rps-challenge.git
+Clone this repo $ git clone git@github.com:gimi
 
 Change directory into the project $ cd rps-challenge
 
