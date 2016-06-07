@@ -6,20 +6,20 @@ A web application that allows two people to play the childhood classic Rock, Pap
 
 #Installation
 
-Clone this repo $ git clone git@github.com:gimi
+Clone this repo ```$ git clone git@github.com:gimi```
 
-Change directory into the project $ cd rps-challenge
+Change directory into the project ```$ cd rps-challenge```
 
-Install dependencies $ bundle
+Install dependencies ```$ bundle```
 
 ##Usage
 
-Start the server $ rackup
+Start the server ```$ rackup```
 
-Using your favourite browser, navigate to http://localhost:9292/
+Using your favourite browser, navigate to ```http://localhost:9292/```
 
 Play!
 
 ##Running tests
 
-Tests are run form the command line using $ rspec
+Tests are run form the command line using ```$ rspec```
