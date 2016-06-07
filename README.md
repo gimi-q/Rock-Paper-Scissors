@@ -6,7 +6,7 @@ A web application that allows two people to play the childhood classic Rock, Pap
 
 #Installation
 
-Clone this repo ```$ git clone git@github.com:gimi```
+Clone this repo ```$ git clone https://github.com/gimi-q/Rock-Paper-Scissors_TDD_Ruby.git```
 
 Change directory into the project ```$ cd rps-challenge```
 
